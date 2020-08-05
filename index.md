@@ -19,25 +19,29 @@ Location: Iran, Alborz, Karaj
 
 BS / Computer Engineering 2016-2018
 
-**Payame Noor University, Alborz, Iran
+**Payame Noor University, Alborz, Iran**
 
 BS / Computer Engineering 2018-Present
 
 ## Work Experience
-**Managing Director
+**Managing Director**
 
 House of Intelligence and Creativity of Hooshinoo 2019-Present
 
-**Teacher of Mind Sorts
+**Teacher of Mind Sorts**
 
 Iran Sport For All Federation 2017-Present
 
 ## skills
-System Administration
+Linux System Administration
 
 Python
 
 C/C++
+
+CSS/HTML
+
+Git
 
 ## Links
 [Website](http://ehsanrajabivahdat.ir)
