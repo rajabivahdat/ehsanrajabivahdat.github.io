@@ -15,7 +15,7 @@ Phone: +989372016813
 Location: Iran, Alborz, Karaj
 
 ## Education
-**Kharazmi University, Tehran, Iran
+**Kharazmi University, Tehran, Iran**
 
 BS / Computer Engineering 2016-2018
 
