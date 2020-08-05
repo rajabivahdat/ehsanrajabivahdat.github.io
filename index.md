@@ -32,7 +32,7 @@ House of Intelligence and Creativity of [Hooshinoo](http://hooshinoo.ir/) 2019-P
 
 Iran Sport For All Federation [isfaf](http://www.isfaf.ir/) 2017-Present
 
-## skills
+## Skills
 Linux System Administration
 
 Python
