@@ -24,7 +24,7 @@ BS / Computer Engineering 2016-2018
 BS / Computer Engineering 2018-Present
 
 ## Work Experience
-**Managing Director**
+**CEO**
 
 House of Intelligence and Creativity of [Hooshinoo](http://hooshinoo.ir/) 2019-Present
 
